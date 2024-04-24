@@ -6,9 +6,9 @@ In this report, we explore stocks, a core financial instrument, and analyse them
 
 ## Contributors
 
-@ayyshish - Data Visualisation, Data Processing
-@clairecxy - Data extraction, Data Processing
-@hiimstevenzhu - Feature Engineering, Statistical Models
+- @ayyshish - Data Visualisation, Data Processing
+- @clairecxy - Data extraction, Data Processing
+- @hiimstevenzhu - Feature Engineering, Statistical Models
 
 ## Problem definition
 

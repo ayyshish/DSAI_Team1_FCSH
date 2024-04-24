@@ -38,7 +38,7 @@ We look into our data and process them to represent an aggregated movement acros
 
 1. Using returns instead of prices tends to give better stationarity for linear regression fits - we have a clear distribution with a constant mean and variance
 2. Modelling data on aggregated values tend to be more stable and accurate (Lower MSE on yearly returns vs weekly returns)
-3. The previous prices/returns of an industry has little correlation with it's current value
+3. The previous prices/returns of an industry has little correlation with its current value
 4. Certain industries tend to be heavily correlated with each other
 5. Modelling data using values from other correlated industries on top of its own previous values improve our MSE
 
